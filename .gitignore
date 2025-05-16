@@ -1,0 +1,6 @@
+# ไม่ให้ฐานข้อมูลหรือไฟล์ที่ละเอียดอ่อนถูก track
+.env
+*.sql
+*.zip
+vendor/
+node_modules/
